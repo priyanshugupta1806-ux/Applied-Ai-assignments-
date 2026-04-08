@@ -1,30 +1,21 @@
-# 🤖 Applied AI Assignments
+# ML Assignments
 
-## 📌 Description
-This repository contains all 8 Applied AI assignments based on machine learning concepts and implementations using Python.
+This repository contains machine learning assignments:
 
-## 📂 Assignments
+## Assignments
+- K-Means Clustering
+- DBSCAN
+- PCA
+- K-Means + PCA
+- Logistic Regression
+- SVM
+- Random Forest
+- Model Comparison
 
-1. Assignment 1 – K-Means Clustering  
-2. Assignment 2 – DBSCAN (Anomaly Detection)  
-3. Assignment 3 – PCA (Dimensionality Reduction)  
-4. Assignment 4 – K-Means + PCA Pipeline  
-5. Assignment 5 – Logistic Regression  
-6. Assignment 6 – Support Vector Machine (SVM)  
-7. Assignment 7 – Random Forest Classifier  
-8. Assignment 8 – Model Comparison (LR vs SVM vs Random Forest)  
+## Tools Used
+- Python
+- Scikit-learn
+- Matplotlib
 
-## ⚙️ Technologies Used
-- Python  
-- Scikit-learn  
-- Pandas  
-- NumPy  
-- Matplotlib  
-
-## 🚀 How to Run
-1. Install required libraries  
-2. Open Jupyter Notebook / Python files  
-3. Run the code step by step  
-
-## 👨‍💻 Author
+## Author
 Priyanshu Gupta
